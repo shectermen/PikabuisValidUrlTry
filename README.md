@@ -1,2 +1,0 @@
-# PikabuisValidUrlTry
-Created with CodeSandbox
