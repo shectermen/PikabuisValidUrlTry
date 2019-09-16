@@ -11,4 +11,5 @@ Created with CodeSandbox
 ```
 function isValidUrl(url)
     return /(?:http|https):\/\/(?:[0-9A-z\-]*.)*(?:pikabu)(?:.ru)/.test(url);
-}```
+}
+```
